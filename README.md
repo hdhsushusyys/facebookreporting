@@ -1,4 +1,4 @@
-Visão geral em construção
+• Overview is under construction
 
 # Command line
 
