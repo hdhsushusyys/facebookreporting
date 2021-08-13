@@ -1,8 +1,6 @@
 Visão geral em construção
 
-
 # Command line
-
 
 $  apt update && apt upgrade
 
