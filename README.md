@@ -2,11 +2,15 @@
 
 # Command line
 
-$  apt update && apt upgrade
+$  apt-get update
 
-$  apt install python2
+$  apt-get upgrade
 
-$  apt install git
+$  pkg install python
+
+$  pkg install python2
+
+$  pkg install git
 
 $  git clone https://github.com/tackyrobo/facebookreporting 
 
