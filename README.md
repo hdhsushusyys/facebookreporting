@@ -14,7 +14,7 @@ $  pkg install python2
 
 $  pkg install git
 
-$  git clone https://github.com/tackyrobo/facebookreporting 
+$  git clone https://github.com/nobletacky/facebookreporting 
 
 $  cd facebookreporting
 
