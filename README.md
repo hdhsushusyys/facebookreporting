@@ -2,9 +2,11 @@
 
 # Command line
 
-$  apt-get update
+3) Enter ( apt-get update) and press ok
 
-$  apt-get upgrade
+4) enter (apt-get upgrade) and press ok
+
+5) enter (termux-setup-storage) press ok and Allow Permission
 
 $  pkg install python
 
