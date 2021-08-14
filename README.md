@@ -8,7 +8,7 @@ $  apt install python2
 
 $  apt install git
 
-$     git clone https://github.com/tackyrobo/facebookreporting 
+$  git clone https://github.com/tackyrobo/facebookreporting 
 
 $  cd facebookreporting
 
