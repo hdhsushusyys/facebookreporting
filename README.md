@@ -8,17 +8,19 @@
 
 5) enter (termux-setup-storage) press ok and Allow Permission
 
-$  pkg install python
+$  pkg install python -y
 
-$  pkg install python2
+$  pkg install python2 -y
 
 $  pkg install git
 
 $  git clone https://github.com/nobletacky/facebookreporting 
 
+$  ls
+
 $  cd facebookreporting
 
-$  ls
+$  chmod +x *
 
 $  unzip Report.zip
 
